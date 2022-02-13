@@ -18,6 +18,7 @@ Example:
 ```bash
 pipenv run python manage.py makemigrations 
 ```
+![image](https://user-images.githubusercontent.com/56740710/153776334-46a3ef7b-7fa3-4552-a235-2d4029807b17.png)
 
 
 
